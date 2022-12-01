@@ -1,2 +1,2 @@
-mobileNumber :
-Password :
+mobileNumber : +91 7022503201
+Password : Mani@123
