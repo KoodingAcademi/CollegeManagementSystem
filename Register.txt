@@ -1,5 +1,5 @@
 Name :
 PhoneNumber :
 Email    :
-Address   :
+Address   : Bangalore
 Password :
