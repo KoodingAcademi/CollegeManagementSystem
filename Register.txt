@@ -1,5 +1,5 @@
 Name : Manikanta
-PhoneNumber :
-Email    :
+PhoneNumber : +91 1234567890
+Email    : codingacademi@gmail.com
 Address   : Bangalore
-Password :
+Password : Mani@123:
